@@ -1,0 +1,8 @@
+ctrl+f10
+diskpart
+
+list
+
+select disk 0
+clean
+exit
