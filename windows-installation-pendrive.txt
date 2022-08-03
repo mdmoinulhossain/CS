@@ -1,3 +1,4 @@
+As soon as the computer starts booting up, press one of the function keys (F1, F2, F3, F10, or F12), Esc, or Delete key. Inside the motherboard firmware settings, open the Boot page. Set the boot order to start with the Windows 10 installation files from the USB media.
 #When File formate Not Same for windows installation
 Open cmd -> ctrl+f10
 
