@@ -1,4 +1,6 @@
-ctrl+f10
+#When File formate Not Same for windows installation
+Open cmd -> ctrl+f10
+
 diskpart
 
 list
@@ -6,3 +8,13 @@ list
 select disk 0
 clean
 exit
+
+
+#File formate
+GPT=FAT32
+MBR=NTFS
+
+#windows Installation Links
+https://www.microsoft.com/en-us/software-download/windows10
+For Specify file formate:
+https://rufus.ie/en/
