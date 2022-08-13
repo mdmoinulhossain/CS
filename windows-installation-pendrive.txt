@@ -12,8 +12,8 @@ exit
 
 
 #File formate
-GPT=FAT32
-MBR=NTFS
+UEFI=GPT=FAT32
+LEGACY=MBR=NTFS
 
 #windows Installation Links
 https://www.microsoft.com/en-us/software-download/windows10
