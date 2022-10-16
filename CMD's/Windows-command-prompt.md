@@ -24,5 +24,7 @@ $ recent
 $ cleanmgr (- disk cleaner)
 
 
-================================= ShortCut key ==============================
-alt + f4 - pc restart/shutdown option
+# ShortCut key
+1. alt + f4 - pc restart/shutdown option
+2. windows + l - log off
+3. f2 - rename file
