@@ -16,15 +16,16 @@ $ winver
 $ regedit
 
 # Cleaning junk files
-$ tree
-$ temp
-$ %temp$
-$ prefetch
-$ recent
-$ cleanmgr (- disk cleaner)
+1. $ tree
+2. $ temp
+3. $ %temp%
+4. $ prefetch
+5. $ recent
+6. $ cleanmgr (- disk cleaner)
 
 
 # ShortCut key
-1. alt + f4 - pc restart/shutdown option
-2. windows + l - log off
-3. f2 - rename file
+1. alt + f4 -> pc restart/shutdown option
+2. windows + l -> log off
+3. f2 -> rename file
+4. ctrl + alt + Delete -> options for pc log off, restart, task manager etc.
