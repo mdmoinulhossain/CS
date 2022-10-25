@@ -6,7 +6,7 @@ $ exit - to exit cmd
 # pc username: 
 $ net user
 
-# pc Hostname: 
+# pc Hostname:
 $ hostname (To changed this go to "advanced system settings" option)
 
 # Windows version:
@@ -26,6 +26,11 @@ $ regedit
 
 # ShortCut key
 1. alt + f4 -> pc restart/shutdown option
-2. windows + l -> log off
+2. windows + L -> log off
 3. f2 -> rename file
 4. ctrl + alt + Delete -> options for pc log off, restart, task manager etc.
+
+
+
+# Credential manager
+* windows credentials option saved password of autentication from localhost to remote (ex. github, outlook, virtualapp etc.) 
