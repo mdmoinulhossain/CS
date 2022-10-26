@@ -2,13 +2,13 @@ As soon as the computer starts booting up, press one of the function keys (F1, F
 #When File formate Not Same for windows installation
 Open cmd -> ctrl+f10
 
-diskpart
+$ diskpart
 
-list
+$ list
 
-select disk 0
-clean
-exit
+$ select disk 0
+$ clean
+$ exit
 
 
 #File formate
