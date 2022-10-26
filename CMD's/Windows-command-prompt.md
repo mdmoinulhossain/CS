@@ -12,10 +12,20 @@ $ hostname (To changed this go to "advanced system settings" option)
 # Windows version:
 $ winver
 
-# To see add registry file
+# Pc information:
+$ systeminfo
+
+# To see add registry file:
 $ regedit
 
-# Cleaning junk files
+# scans hard drive for file system errors:
+$ CHKDSK
+
+# S.M.A.R.T. test for windows (ok/Pred Fail):
+$ wmic diskdrive get status
+
+
+# Cleaning junk files:
 1. $ tree
 2. $ temp
 3. $ %temp%
