@@ -39,6 +39,7 @@ $ wmic diskdrive get status
 2. windows + L -> log off
 3. f2 -> rename file
 4. ctrl + alt + Delete -> options for pc log off, restart, task manager etc.
+5. window + print SysRq -> Screenshot of your pc.
 
 
 
