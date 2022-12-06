@@ -25,13 +25,15 @@ $ CHKDSK
 $ wmic diskdrive get status
 
 
-# Cleaning junk files:
+# Cleaning junk files:(Windows + r)
 1. $ tree
 2. $ temp
 3. $ %temp%
 4. $ prefetch
 5. $ recent
 6. $ cleanmgr (- disk cleaner)
+--
+7. %appdata% - for data of installation app in pc.
 
 
 # ShortCut key
