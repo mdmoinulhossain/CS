@@ -42,6 +42,8 @@ $ wmic diskdrive get status
 3. f2 -> rename file
 4. ctrl + alt + Delete -> options for pc log off, restart, task manager etc.
 5. window + print SysRq -> Screenshot of your pc.
+6. ctrl + t -> open new tab in browser and ctrl + w to close.
+7. crrl + shift + t to undo browser and ctrl + shift + w to clone whole browser.(same as file explorer) 
 
 
 
