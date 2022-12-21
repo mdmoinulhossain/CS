@@ -45,6 +45,7 @@ $ wmic diskdrive get status
 6. ctrl + t -> open new tab in browser and ctrl + w to close.
 7. ctrl + shift + t to undo browser and ctrl + shift + w to clone whole browser.(same as file explorer)
 8. windows + `+` to zoom in pc screen and `-` to zoom out
+9. windows + i to open pc settings
 
 
 
