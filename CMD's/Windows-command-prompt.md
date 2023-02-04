@@ -18,8 +18,11 @@ $ systeminfo
 # To see add registry file:
 $ regedit
 
-# scans hard drive for file system errors:
+# scans hard drive for file system errors(For next restart use: $ CHKDSK /f /r):
 $ CHKDSK
+
+# check and repair if necessary any critical Windows system files:
+$ SFC   /SCANNOW
 
 # S.M.A.R.T. test for windows (ok/Pred Fail):
 $ wmic diskdrive get status
