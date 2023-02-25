@@ -37,6 +37,7 @@ $ wmic diskdrive get status
 6. $ cleanmgr (- disk cleaner)
 --
 7. %appdata% - for data of installation app in pc.
+8. DISKMGMT.MSC - For disk management
 
 
 # ShortCut key
