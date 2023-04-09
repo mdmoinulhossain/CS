@@ -4,7 +4,7 @@ Open cmd -> ctrl+f10 / SHIFT+F10
 
 $ diskpart
 
-$ list
+$ list disk
 
 $ select disk 0
 $ clean
