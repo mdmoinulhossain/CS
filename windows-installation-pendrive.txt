@@ -19,3 +19,6 @@ LEGACY=MBR=NTFS
 https://www.microsoft.com/en-us/software-download/windows10
 For Specify file formate:
 https://rufus.ie/en/
+
+# Documentation
+https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/boot-and-install-windows?view=windows-10
