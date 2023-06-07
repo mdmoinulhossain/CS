@@ -7,6 +7,11 @@ $ diskpart
 $ list disk
 
 $ select disk 0
+
+$ list partition
+
+$ delete partition override
+
 $ clean
 $ exit
 
