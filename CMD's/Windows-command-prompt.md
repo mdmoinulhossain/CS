@@ -3,6 +3,9 @@ $ ipconfig
 
 $ exit - to exit cmd
 
+# safe mode and others functions
+$ msconfig
+
 # pc username: 
 $ net user
 
@@ -22,7 +25,7 @@ $ regedit
 $ CHKDSK
 
 # check and repair if necessary any critical Windows system files:
-$ SFC   /SCANNOW
+$ SFC / SCANNOW
 
 # S.M.A.R.T. test for windows (ok/Pred Fail):
 $ wmic diskdrive get status
