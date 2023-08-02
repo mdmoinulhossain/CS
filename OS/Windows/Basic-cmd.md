@@ -10,3 +10,8 @@ start.
 
 # Copy Folder
 copy selectFolder NewFolder
+
+# Open cmd as administration:
+```
+win + r -> ctrl + shift + enter
+```
