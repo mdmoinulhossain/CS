@@ -1,34 +1,57 @@
 # to check ip:
-$ ipconfig
+```
+ipconfig
+```
 
 $ exit - to exit cmd
 
 # safe mode and others functions
-$ msconfig
+```
+msconfig
+```
 
 # pc username: 
-$ net user
+```
+net user
+```
+
 
 # pc Hostname:
 $ hostname (To changed this go to "advanced system settings" option)
 
 # Windows version:
-$ winver
+```
+winver
+```
 
 # Pc information:
-$ systeminfo
+```
+systeminfo
+```
 
 # To see add registry file:
-$ regedit
+```
+regedit
+```
+
 
 # scans hard drive for file system errors(For next restart use: $ CHKDSK /f /r):
-$ CHKDSK
+```
+CHKDSK
+```
+
 
 # check and repair if necessary any critical Windows system files:
-$ SFC / SCANNOW
+```
+SFC / SCANNOW
+```
+
 
 # S.M.A.R.T. test for windows (ok/Pred Fail):
-$ wmic diskdrive get status
+```
+wmic diskdrive get status
+```
+
 
 
 # Cleaning junk files:(Windows + r)

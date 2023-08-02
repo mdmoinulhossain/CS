@@ -15,3 +15,9 @@ copy selectFolder NewFolder
 ```
 win + r -> ctrl + shift + enter
 ```
+
+# Delete files/folder
+```
+del FileName
+rmdir folderName
+```
