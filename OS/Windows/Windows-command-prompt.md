@@ -2,6 +2,9 @@
 ```
 ipconfig
 ```
+```
+ipconfig /all
+```
 
 $ exit - to exit cmd
 
