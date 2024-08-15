@@ -17,6 +17,12 @@ msconfig
 ```
 net user
 ```
+# Change username
+```
+Windows+R, enter lusrmgr.msc
+Open Users from left menu
+Right mouse click on your account and select Rename
+```
 
 
 # pc Hostname:
