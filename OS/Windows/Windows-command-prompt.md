@@ -61,6 +61,16 @@ SFC / SCANNOW
 wmic diskdrive get status
 ```
 
+# RAM Bus speed & Memory type check:
+```
+wmic memorychip get speed
+
+wmic memorychip get memorytype
+```
+--------- Power Shell
+```
+Get-WmiObject Win32_PhysicalMemory | Select-Object Manufacturer, Speed, MemoryType
+```
 
 
 # Cleaning junk files:(Windows + r)
